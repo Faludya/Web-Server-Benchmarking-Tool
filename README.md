@@ -37,12 +37,26 @@ It provides detailed insights into server performance, helping identify bottlene
 
 ## 📂 Project Structure
 ├── main.py # Entry point – runs the benchmark
+
+
 ├── benchmark.py # Core logic for sending requests
+
+
 ├── config_handler.py # Load/save configurations
+
+
 ├── test_scenarios.py # Load, ramp-up, spike, and stress tests
+
+
 ├── data_plotting.py # Data analysis & plotting
+
+
 ├── config.json # Configuration file
+
+
 ├── response_data.csv # Output with server responses
+
+
 └── data_analysis.ipynb # Jupyter notebook with data visualization
 
 
